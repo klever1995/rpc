@@ -77,7 +77,7 @@ The server will respond with the following JSON message:
 
 ```json
 { "message": "Hello, World!" }
-javascript
+
 
 
 
